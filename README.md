@@ -1,13 +1,16 @@
 # Pharmacy-sales-analysis
 Pharmacy Sales &amp; Market Performance Analysis
-Project Overview:
+## Project Overview:
 This Project analyzes pharmacy sales data to understand business performance, revenue trends and market insights 
+
 Objectives:
 Analyze Sales perfromance,
 Identify top performing products,
 Understand Market trends.
+
 Tools Used:
 Excel / Power BI
+
 Dashboards:
 Sales Performance Overview 
 <img width="1364" height="761" alt="Sales-Overview" src="https://github.com/user-attachments/assets/35db51db-c40a-462c-a474-68fda8c9ca17" />
