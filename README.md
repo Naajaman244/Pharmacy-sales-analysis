@@ -17,4 +17,4 @@ Key Insights :
 -Total Revenue of 11bn and Total Target of 8bn, this tells us that the company meeet up and exceed their target
 -With 52.9%, Pharmacy contributed to Revenue than Hospital
 -Analgesics is leading among the Products class, generated over $2.2M
--Charlie Team Outperformed others contributed 37% to the Revenue 
+-Charlie Team Outperformed others, contributed 37% to the Revenue 
